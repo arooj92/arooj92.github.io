@@ -1,3 +1,4 @@
+---
 title: "Exploring Tangible Interfaces for Learning 3D Geometry and Basic Structural Engineering Concepts"
 collection: publications
 date: 2026-06-01

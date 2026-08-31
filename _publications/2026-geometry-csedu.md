@@ -1,3 +1,4 @@
+---
 title: "Encoding Geometry Learning and Collaboration in Communication-Aware Tangible Interfaces"
 collection: publications
 date: 2026-01-01

@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "Publications"
 permalink: /publications/
 author_profile: true
@@ -9,8 +9,7 @@ author_profile: true
 
 **TIEboard: A Digital Educational Tool for Kids Geometric Learning**  
 Arooj Zaidi, Junichi Yamaoka, et al.  
-*ACM Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)*, Vol. 9, No. 1, 2025.  
-[Read Paper](https://dl.acm.org/doi/10.1145/3699745)
+*ACM Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)*, Vol. 9, No. 1, 2025.
 
 ---
 

@@ -36,6 +36,20 @@
   margin-bottom: 16px;
   border: 1px solid var(--rule);
 }
+  .pc-image-wrap { position: relative; display: block; }
+.pc-image-wrap::after {
+  content: '▶ Watch';
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+  background: rgba(0,0,0,0.55);
+  color: #fff;
+  font-family: var(--f-mono);
+  font-size: 0.6rem;
+  letter-spacing: 0.08em;
+  padding: 3px 8px;
+  border-radius: 3px;
+}
 }
 
 @media (prefers-color-scheme: dark) {
@@ -684,7 +698,9 @@ section.active {
 
         <div class="project-card">
       
+  <a class="pc-image-wrap" href="https://www.youtube.com/watch?v=jXxEchYpQUM" target="_blank">
   <img class="pc-image" src="tieboard.jpg" alt="TIEboard">
+</a>
   
           <div class="pc-top">
             <div class="pc-name">TIEboard</div>
@@ -709,7 +725,9 @@ section.active {
 
         <div class="project-card">
           <div class="project-card">
+  <a class="pc-image-wrap" href="https://www.youtube.com/watch?v=eOH3N00R5Og" target="_blank">
   <img class="pc-image" src="tangibuild.jpg" alt="TangiBuild">
+</a>
           <div class="pc-top">
             <div class="pc-name">TangiBuild</div>
             <span class="badge badge-accent">Ongoing</span>
